@@ -1,0 +1,52 @@
+.section-five {
+    display: flex;
+    gap: 300px;
+    background-color: black;
+    padding-bottom: 50px;
+}
+
+@media (max-width: 767px) {
+    .section-five {
+        display: grid;
+        grid-template-columns: 1fr;
+        padding-left: 150px;
+    }
+}
+
+.maximize {
+    max-width: 400px;
+    font-size: 60px;
+    padding-left: 50px;
+    color: white;
+}
+
+.num-one {
+    font-size: 50px;
+    color: rgb(138, 203, 138);
+}
+
+.num-two {
+    font-size: 50px;
+    color: rgb(138, 203, 138);
+}
+
+.num-three {
+    font-size: 50px;
+    color: rgb(138, 203, 138);
+}
+
+.numbers {
+    max-width: 300px;
+}
+
+.t-one {
+    color: rgba(241, 236, 236, 0.854);
+}
+
+.t-two {
+    color: rgba(241, 236, 236, 0.854);
+}
+
+.t-three {
+    color: rgba(241, 236, 236, 0.854);
+}

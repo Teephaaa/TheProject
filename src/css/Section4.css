@@ -1,0 +1,205 @@
+.section-four {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-bottom: 50px;
+}
+
+@media (max-width:767px) {
+    .section-four {
+        display: grid;
+        grid-template-columns: 1fr;
+        
+    }
+}
+
+/* ====First Div ==== */
+
+
+.first-divv {
+    border: 1px white solid;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 300px;
+    margin-left: 20px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.first-divv:hover {
+    border-color: rgb(36, 218, 36);
+}
+
+.coming-one {
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    gap: 80px;
+}
+
+.exclamation {
+    font-size: 40px;
+}
+
+
+.rug {
+    font-size: 40px;
+}
+
+.trade-safely {
+    font-size: 20px;
+    max-width: 200px;
+    padding-left: 30px;
+}
+
+.first-learnn {
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    gap: 10px;
+}
+.first-learnn:hover {
+    color: rgb(36, 218, 36);
+}
+
+/* ====Second Div ===== */
+
+.second-divv {
+    border: 1px white solid;
+    border-radius: 8px;
+    max-width: 300px;
+    /* margin-left: 50px; */
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    /* padding-left: 30px; */
+}
+
+.second-divv:hover {
+    border-color: rgb(36, 218, 36);
+}
+
+.coming-two {
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    gap: 60px;
+}
+
+.dollarr {
+    font-size: 40px;
+}
+
+.limit-order {
+    font-size: 40px;
+}
+
+.take-control {
+    font-size: 20px;
+    max-width: 200px;
+    padding-left: 50px;
+}
+
+.second-learnn {
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    gap: 10px;
+}
+.second-learnn:hover {
+    color: rgb(36, 218, 36);
+}
+
+/* ====Third Div=== */
+
+.third-divv {
+    border: 1px white solid;
+    border-radius: 8px;
+    max-width: 300px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.third-divv:hover {
+    border-color: rgb(36, 218, 36);
+}
+
+.coming-three {
+    display: flex;
+    align-items: center;
+    padding-left: 90px;
+    gap: 70px;
+}
+
+.candles {
+    font-size: 40px;
+}
+
+.candle-swap {
+    font-size: 40px;
+}
+
+.precise {
+    font-size: 20px;
+    max-width: 200px;
+    padding-left: 50px;
+}
+
+.third-learnn {
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    gap: 10px;
+}
+.third-learnn:hover {
+    color: rgb(36, 218, 36);
+}
+/* ====Fourth Div==== */
+
+.fourth-divv {
+    border: 1px white solid;
+    border-radius: 8px;
+    max-width: 300px;
+    /* margin-left: 50px; */
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.fourth-divv:hover {
+    border-color: rgb(36, 218, 36);
+}
+
+.coming-four {
+    display: flex;
+    align-items: center;
+    padding-left: 110px;
+    gap: 80px;
+}
+
+.frozen {
+    font-size: 40px;
+}
+
+.block {
+    font-size: 40px;
+}
+
+.precision {
+    font-size: 20px;
+    max-width: 200px;
+    padding-left: 50px;
+}
+
+.fourth-learnn {
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    gap: 10px;
+}
+.fourth-learnn:hover {
+    color:  rgb(36, 218, 36);
+}

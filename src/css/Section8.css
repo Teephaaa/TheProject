@@ -1,0 +1,35 @@
+.toad-toad {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.toad-dao {
+    max-width: 600px;
+    font-size: 50px;
+    color: white;
+}
+
+.governance {
+    max-width: 100px;
+    color: rgb(190, 185, 185);
+    padding-left: 20px;
+}
+
+.p-toad {
+    max-width: 500px;
+    color: rgb(195, 191, 191);
+}
+
+.section-eight {
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+@media (max-width: 767px) {
+    .section-eight {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}

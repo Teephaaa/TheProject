@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: black;
+}
+
+.first {
+    display: flex;
+    gap: 280px;
+    background-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.Toad-one {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+}
+
+.Toad-two {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    color: white;
+}
+
+.launch-btn {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(149, 243, 9);
+}
+
+.home {
+    text-decoration: none;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .Toad-two {
+        display: none;
+    }
+
+}

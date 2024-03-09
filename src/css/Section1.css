@@ -1,0 +1,60 @@
+.otsea {
+    font-size: 40px;
+    color: white;
+}
+
+
+.warning-para {
+    line-height: 1.7;
+}
+
+.warning-icon {
+    font-size: 50px;
+    color: rgb(184, 9, 9);
+}
+
+.warning-para {
+    width: 90%;
+    max-width: 420px;
+    border: 2px rgb(184, 9, 9) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0 auto;
+    border-radius: 8px;
+    color: rgb(184, 9, 9);
+}
+
+.control {
+    width: 90%;
+    max-width: 250px;
+    border: 1px white solid;
+    border-radius: 8px;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.control-one {
+    color: white;
+}
+
+.connect-btn {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-color: rgb(93, 126, 137);
+    color: white;
+    border: none;
+}
+
+.section-one {
+    background-color: black;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+

@@ -1,0 +1,58 @@
+
+
+.one {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.font-toad {
+    font-size: 60px;
+    padding-top: 60px;
+}
+
+.saves {
+    line-height: 0.6;
+    font-size: 30px;
+}
+
+.saves-money {
+    margin-bottom: 350px;
+}
+
+.hop {
+    font-size: 30px;
+}
+
+.launch-app-btn {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(149, 243, 9);
+}
+
+.the-scroll {
+    margin-left: 400px;
+}
+
+.section-twohey {
+    /* background-color: rgb(13, 111, 14); */
+    color: white;
+    /* background-color: black; */
+    /* margin-top: 50px; */
+    background-color: black;
+    padding-bottom: 50px; 
+    padding-top: 10px;
+}
+
+.div-one {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-image: linear-gradient(-45deg, rgb(31, 65, 31) 95%, black 5%);
+    /* background-color: rgb(13, 111, 14); */
+}
+

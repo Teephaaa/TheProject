@@ -1,0 +1,32 @@
+.copyright {
+    display: flex;
+    align-items: center;
+    padding-left: 570px;
+}
+
+.telegramm {
+    padding-right: 10px;
+    font-size: 30px;
+}
+
+.twitterr {
+    padding-right: 10px;
+    font-size: 30px;
+}
+
+.bookline {
+    font-size: 30px;
+}
+
+.section-thirteen {
+    background-color: black;
+    padding-top: 20px;
+    color: white;
+    width: 100%;
+}
+
+@media (max-width:767px) {
+    .copyright {
+        padding-left: 310px;
+    }
+}

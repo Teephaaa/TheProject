@@ -1,0 +1,44 @@
+.everything {
+    /* float: left; */
+    width: 100%;
+}
+
+.section-ten {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+
+.nine-security {
+    max-width: 100px;
+    padding-left: 10px;
+    color: rgb(160, 156, 156);
+}
+
+.our-contract {
+    max-width: 900px;
+    font-size: 50px;
+    padding-left: 20px;
+    color: white;
+}
+
+.in-year {
+    max-width: 700px;
+    color: white;
+}
+
+.report-btn {
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    border-radius: 8px;
+    background-color: rgb(66, 240, 66);
+    border: none;
+}
+
+.report-btn:hover {
+    background-color: rgb(6, 96, 6);
+}

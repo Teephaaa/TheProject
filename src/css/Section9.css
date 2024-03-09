@@ -1,0 +1,62 @@
+.the-community {
+    display: flex;
+    align-items: center;
+    padding-bottom: 50px;
+    gap: 180px;
+    padding-left: 20px;
+}
+
+.forum {
+    max-width: 100px;
+    padding-left: 10px;
+}
+
+.latest {
+    max-width: 100px;
+    padding-left: 10px;
+}
+
+.dao-decision {
+    display: flex;
+    align-items: center;
+    padding-bottom: 50px;
+    gap: 180px;
+    padding-left: 20px;
+}
+
+.one-community {
+    border: 1px white solid;
+    border-radius: 8px;
+    max-width: 400px;
+    color: white;
+}
+.one-community:hover {
+    border-color: rgb(138, 203, 138);
+}
+
+.one-decision {
+    border: 1px white solid;
+    border-radius: 8px;
+    max-width: 400px;
+    color: white;
+}
+.one-decision:hover {
+    border-color: rgb(138, 203, 138);
+}
+
+.section-nine {
+    padding-bottom: 100px;
+    padding-top: 30px;
+    padding-left: 30px;
+    display: flex;
+    gap: 30px;
+    background-color: black;
+}
+
+.para-one {
+    color: rgb(163, 157, 157);
+}
+
+.para-two {
+    color: rgb(163, 157, 157);
+}

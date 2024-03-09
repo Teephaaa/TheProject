@@ -1,0 +1,83 @@
+.why-one {
+    display: flex;
+    align-items: center;
+    gap: 400px;
+}
+
+.why-two {
+    display: flex;
+    align-items: center;
+    gap: 350px;
+}
+
+.why-three {
+    display: flex;
+    align-items: center;
+    gap: 285px;
+}
+
+.why-four {
+    display: flex;
+    align-items: center;
+    gap: 315px;
+}
+
+.why-five {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.all-why {
+    border: 1px rgb(228, 225, 225) solid;
+    border-radius: 8px;
+    width: 600px;
+    padding-left: 20px;
+    color: white;
+}
+
+.faq {
+    font-size: 40px;
+    color: white;
+}
+
+.all-quick {
+    line-height: 0.7;
+    font-size: larger;
+    text-align: left;
+    color: rgb(225, 221, 221);
+}
+
+.documentation {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    border-radius: 5px;
+    border: 1px solid;
+    background-color: black;
+}
+
+.all-faq {
+    display: flex;
+    gap: 250px;
+    margin-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.section-twelve {
+    background-color: black;
+}
+
+@media (max-width:767px) {
+    .all-faq {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .faq {
+        text-align: left;
+    }
+}
