@@ -48,9 +48,17 @@ body{
     color: white;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
     .Toad-two {
         display: none;
     }
-
+    .auditt {
+        display: none;
+    }
+    .whitepaper {
+        display: none;
+    }
+    .daoo {
+        display: none;
+    }
 }

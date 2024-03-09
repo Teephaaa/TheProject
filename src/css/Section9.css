@@ -48,7 +48,8 @@
     padding-bottom: 100px;
     padding-top: 30px;
     padding-left: 30px;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 30px;
     background-color: black;
 }
@@ -59,4 +60,10 @@
 
 .para-two {
     color: rgb(163, 157, 157);
+}
+
+@media (max-width: 480px) {
+    .section-nine {
+        grid-template-columns: 1fr;
+    }
 }

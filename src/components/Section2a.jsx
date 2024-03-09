@@ -16,10 +16,10 @@ const Section11 = () => {
             <h2 className='hop'>Hop into the future of decentralized trading</h2>
             <button className='launch-app-btn'>Launch App</button>
         </div>
-        <div className='the-scroll'>
+        {/* <div className='the-scroll'>
             <p>scroll</p>
             <BsChevronDown />
-        </div>
+        </div> */}
         </div>
         </div>
 

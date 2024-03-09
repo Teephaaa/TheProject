@@ -9,7 +9,7 @@
     .section-five {
         display: grid;
         grid-template-columns: 1fr;
-        padding-left: 150px;
+        /* padding-left: 150px; */
     }
 }
 

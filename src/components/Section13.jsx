@@ -13,11 +13,11 @@ const Section13 = () => {
             <h1>ToadSwap</h1>
         </div>
 
-        <div className='copyright'>
+        {/* <div className='copyright'>
             <RiCopyrightLine />
             <p>ToadSwap</p>
             <p>2023.</p>
-        </div>
+        </div> */}
         <div>
             <p>All rights reserved.</p>
         </div>

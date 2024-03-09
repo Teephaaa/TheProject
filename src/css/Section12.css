@@ -72,12 +72,15 @@
     background-color: black;
 }
 
-@media (max-width:767px) {
+@media (max-width:480px) {
     .all-faq {
         display: grid;
         grid-template-columns: 1fr;
     }
     .faq {
         text-align: left;
+    }
+    .all-why {
+        display: none;
     }
 }

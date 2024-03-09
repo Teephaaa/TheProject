@@ -14,9 +14,9 @@ const Navbar = () => {
             <p>Home</p>
             <p>Utilities</p>
             <p>Roadmap</p>
-            <p>DAO</p>
-            <p>Audit</p>
-            <p>Whitepaper</p>
+            <p className="daoo">DAO</p>
+            <p className="auditt">Audit</p>
+            <p className="whitepaper">Whitepaper</p>
           </div>
 
           <div className="Toad-two">
