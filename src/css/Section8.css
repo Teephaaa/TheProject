@@ -1,7 +1,7 @@
 .toad-toad {
     display: flex;
     align-items: center;
-    gap: 100px;
+    gap: 20px;
 }
 
 .toad-dao {
@@ -17,7 +17,8 @@
 }
 
 .p-toad {
-    max-width: 500px;
+    max-width: 400px;
+    padding-right: 20px;
     color: rgb(195, 191, 191);
 }
 
@@ -27,7 +28,7 @@
     padding-bottom: 30px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 425px) {
     .section-eight {
         display: grid;
         grid-template-columns: 1fr;

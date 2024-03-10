@@ -26,7 +26,7 @@
     width: 100%;
 }
 
-@media (max-width:767px) {
+@media (max-width:425px) {
     .copyright {
         padding-left: 310px;
     }

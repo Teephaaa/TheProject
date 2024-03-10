@@ -7,7 +7,7 @@
     padding-bottom: 50px;
 }
 
-@media (max-width:767px) {
+@media (max-width:425px) {
     .section-four {
         display: grid;
         grid-template-columns: 1fr;

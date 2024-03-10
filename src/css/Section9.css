@@ -4,6 +4,7 @@
     padding-bottom: 50px;
     gap: 180px;
     padding-left: 20px;
+    /* padding-right: 10px; */
 }
 
 .forum {
@@ -62,7 +63,7 @@
     color: rgb(163, 157, 157);
 }
 
-@media (max-width: 480px) {
+@media (max-width: 425px) {
     .section-nine {
         grid-template-columns: 1fr;
     }

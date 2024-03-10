@@ -62,7 +62,7 @@
     border-radius: 8px;
     margin-bottom: 50px;
     width: 50%;
-    margin-left: 50px;
+    /* margin-left: 50px; */
     margin-right: 20px;
     color: white;
 }
@@ -153,7 +153,7 @@
     border-radius: 8px;
     margin-bottom: 50px;
     width: 50%;
-    margin-left: 50px;
+    /* margin-left: 50px; */
     margin-right: 50px;
     color: white;
 }
@@ -190,7 +190,7 @@
     color: rgb(36, 218, 36);
 }
 
-@media (max-width: 480px) {
+@media (max-width: 425px) {
     .section-three {
         display: grid;
         grid-template-columns: 1fr;
