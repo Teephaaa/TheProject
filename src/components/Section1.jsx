@@ -12,8 +12,8 @@ const Section1 = () => {
       <div className="warning">
         <IoIosWarning className="warning-icon"/>
          <p className="warning-para">WARNING: if you have not migrate yet, do NOT buy, sell or transfer
-        $OTSEA tokens. For a successful migration, you must use the original
-        wallet from the snapchat date and transfer onlythe exact amount of
+        ToadSwap tokens. For a successful migration, you must use the original
+        wallet from the snapchot date and transfer onlythe exact amount of
         tokens you had at a time.</p>
       </div>
       <div className="control">
